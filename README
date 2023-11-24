@@ -1,0 +1,3 @@
+-This study shows how the use of KNN, decision trees, logistic classifier and SVM give very good results with the bank marketing dataset.
+-The SVM model has the best results.
+-Regarding the features, the duration is by far the most important feature followed the month
